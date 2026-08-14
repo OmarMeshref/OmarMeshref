@@ -30,9 +30,9 @@ Building full stack applications with **.NET, Angular & SQL Server**.
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/omar-a-meshref/">LinkedIn</a>
   •
   <a href="https://omarmeshref.github.io/Portofolio/">Portfolio</a>
   •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:oomarmeshref@gmail.com">Email</a>
 </p>

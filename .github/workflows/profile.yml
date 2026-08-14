@@ -28,7 +28,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
 
-      - name: Recent Stack
+      - name: Programming Languages
         uses: lowlighter/metrics@latest
         with:
           user: OmarMeshref
@@ -38,14 +38,19 @@ jobs:
           base: ""
 
           plugin_languages: yes
-          plugin_languages_sections: recently-used
+          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
 
           commits_authoring: >-
             OmarMeshref,
             Omar2002A,
-            mushrefo19@gmail.com,
-            OmarMeshref@users.noreply.github.com
+            mushrefo19@gmail.com
+
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
+
+          plugin_languages_analysis_timeout: 30
 
           plugin_languages_recent_days: 90
           plugin_languages_recent_load: 1000
