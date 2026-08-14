@@ -62,6 +62,17 @@ jobs:
           plugin_topics_limit: 12
 
 
+      - name: Check PageSpeed secret
+        env:
+          PAGESPEED_TOKEN: ${{ secrets.PAGESPEED_TOKEN }}
+        run: |
+          if [ -z "$PAGESPEED_TOKEN" ]; then
+            echo "PAGESPEED_TOKEN is EMPTY"
+            exit 1
+          else
+            echo "PAGESPEED_TOKEN is available"
+          fi
+
       - name: Portfolio Health
         uses: lowlighter/metrics@latest
         with:
