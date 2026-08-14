@@ -1,3 +1,108 @@
-return View("Small commits create big progress.");
-return View("Build it. Break it. Understand it.");
-return View("Consistency turns learning into skill.");
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800"
+     height="105"
+     viewBox="0 0 800 105">
+
+  <style>
+    .bg {
+      fill: #0d1117;
+      stroke: #30363d;
+      stroke-width: 1;
+    }
+
+    .top {
+      font-family: Consolas, Monaco, monospace;
+      font-size: 13px;
+      fill: #8b949e;
+    }
+
+    .code {
+      font-family: Consolas, Monaco, monospace;
+      font-size: 16px;
+      fill: #e6edf3;
+    }
+
+    .keyword {
+      fill: #ff7b72;
+    }
+
+    .method {
+      fill: #d2a8ff;
+    }
+
+    .string {
+      fill: #a5d6ff;
+    }
+
+    .quote {
+      opacity: 0;
+      animation: quoteCycle 12s linear infinite;
+    }
+
+    .q1 {
+      animation-delay: 0s;
+    }
+
+    .q2 {
+      animation-delay: 4s;
+    }
+
+    .q3 {
+      animation-delay: 8s;
+    }
+
+    @keyframes quoteCycle {
+      0% {
+        opacity: 1;
+      }
+
+      30% {
+        opacity: 1;
+      }
+
+      33% {
+        opacity: 0;
+      }
+
+      100% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <rect
+    class="bg"
+    x="1"
+    y="1"
+    width="798"
+    height="103"
+    rx="10"
+  />
+
+  <circle cx="22" cy="20" r="4" fill="#ff5f56"/>
+  <circle cx="36" cy="20" r="4" fill="#ffbd2e"/>
+  <circle cx="50" cy="20" r="4" fill="#27c93f"/>
+
+  <text x="68" y="24" class="top">
+    QuoteOfTheDay.cs
+  </text>
+
+  <text x="30" y="67" class="code quote q1">
+    <tspan class="keyword">return</tspan>
+    <tspan class="method"> View</tspan><tspan>(</tspan>
+    <tspan class="string">&quot;Small commits create big progress.&quot;</tspan><tspan>);</tspan>
+  </text>
+
+  <text x="30" y="67" class="code quote q2">
+    <tspan class="keyword">return</tspan>
+    <tspan class="method"> View</tspan><tspan>(</tspan>
+    <tspan class="string">&quot;Build it. Break it. Understand it.&quot;</tspan><tspan>);</tspan>
+  </text>
+
+  <text x="30" y="67" class="code quote q3">
+    <tspan class="keyword">return</tspan>
+    <tspan class="method"> View</tspan><tspan>(</tspan>
+    <tspan class="string">&quot;Consistency turns learning into skill.&quot;</tspan><tspan>);</tspan>
+  </text>
+
+</svg>
