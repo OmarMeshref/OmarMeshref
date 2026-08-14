@@ -15,6 +15,9 @@ jobs:
 
     steps:
 
+      # =========================
+      # GitHub Activity
+      # =========================
       - name: GitHub Activity
         uses: lowlighter/metrics@latest
         with:
@@ -28,6 +31,9 @@ jobs:
           plugin_isocalendar_duration: full-year
 
 
+      # =========================
+      # Programming Languages
+      # =========================
       - name: Programming Languages
         uses: lowlighter/metrics@latest
         with:
@@ -39,19 +45,14 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_sections: most-used
-
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 6
           plugin_languages_threshold: 1%
 
-          plugin_languages_details: percentage, bytes-size, lines
-          plugin_languages_limit: 6
-          plugin_languages_threshold: 1%
 
-          plugin_languages_analysis_timeout: 45
-          plugin_languages_analysis_timeout_repositories: 12
-
-
+      # =========================
+      # Tech Interests
+      # =========================
       - name: Tech Interests
         uses: lowlighter/metrics@latest
         with:
@@ -67,17 +68,9 @@ jobs:
           plugin_topics_limit: 12
 
 
-      - name: Check PageSpeed secret
-        env:
-          PAGESPEED_TOKEN: ${{ secrets.PAGESPEED_TOKEN }}
-        run: |
-          if [ -z "$PAGESPEED_TOKEN" ]; then
-            echo "PAGESPEED_TOKEN is EMPTY"
-            exit 1
-          else
-            echo "PAGESPEED_TOKEN is available"
-          fi
-
+      # =========================
+      # Portfolio PageSpeed
+      # =========================
       - name: Portfolio Health
         uses: lowlighter/metrics@latest
         with:
