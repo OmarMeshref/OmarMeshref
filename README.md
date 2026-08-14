@@ -1,28 +1,27 @@
-```md
-# Hi, I'm Omar Meshref 👋
+╔══════════════════════════════════════╗
+     Hi 👋 I'm Omar Meshref
+     Junior Full Stack Developer
+╚══════════════════════════════════════╝
 
-### Junior Full Stack Developer | Computer Engineer
+     [ .NET ] [ Angular ] [ C# ] [ SQL ]
 
-I build full stack web applications using **.NET, Angular, and SQL Server**.
+👨‍💻 About Me
+─────────────────────────
+💻 Junior Full Stack Developer
+🎓 Computer Engineer
+🚀 Building Full Stack Applications
 
-- 💻 Junior Full Stack Developer focused on **ASP.NET Core & Angular**
-- 🎓 Computer Engineering graduate
-- 🟠 Full Stack training at **Orange Coding School**
-- 🚀 Interested in backend development, APIs, databases, and software architecture
-- 🔧 Also interested in hardware, robotics, and embedded systems
+        🛠️ Languages & Tools
 
-## 🛠️ Tech Stack
+   C#   .NET   Angular   SQL   Git
+   ⚙️    🌐      🅰️     🗃️    🔀
 
-`C#` `ASP.NET Core` `MVC` `Entity Framework Core` `REST APIs`  
-`Angular` `TypeScript` `JavaScript` `HTML` `CSS` `Bootstrap`  
-`SQL Server` `Git` `GitHub` `Postman` `Figma`
+─────────────────────────
 
-## 🚀 Projects
+📊 GitHub Stats
 
-- 🔐 **DeviceTrust** — Full Stack device trust and management platform
-- ☀️ **PV Cleaning Robot** — Computer Engineering graduation project
-
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/omar-a-meshref/) • [Email](mailto:oomarmeshref@gmail.com)
-```
+┌─────────────────┐ ┌─────────────────┐
+│   GitHub Stats  │ │  Top Languages  │
+│ ⭐ Commits      │ │ C# ████████     │
+│ 🔥 Contributions│ │ HTML █████      │
+└─────────────────┘ └─────────────────┘
