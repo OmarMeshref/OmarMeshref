@@ -39,22 +39,10 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
 
-          commits_authoring: >-
-            OmarMeshref,
-            Omar2002A,
-            mushrefo19@gmail.com
-
-          plugin_languages_indepth_custom: |
-            OmarMeshref/ASP.Net-MVC 
-            OmarMeshref/C-Sharp
-            OmarMeshref/Problem-Solving
-            OmarMeshref/SQL-Tasks
-            OmarMeshref/Designing-a-Scalable-E-Commerce-Database
-            OmarMeshref/Student-Exam-Grade-Tracking-System
-            OmarMeshref/JS_Tasks 
-            OmarMeshref/Portofolio
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 1%
 
           plugin_languages_details: percentage, bytes-size, lines
           plugin_languages_limit: 6
