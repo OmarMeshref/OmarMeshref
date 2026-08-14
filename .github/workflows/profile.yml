@@ -46,10 +46,22 @@ jobs:
             Omar2002A,
             mushrefo19@gmail.com
 
-          plugin_languages_details: percentage, bytes-size
+          plugin_languages_indepth_custom: |
+            OmarMeshref/ASP.Net-MVC 
+            OmarMeshref/C-Sharp
+            OmarMeshref/Problem-Solving
+            OmarMeshref/SQL-Tasks
+            OmarMeshref/Designing-a-Scalable-E-Commerce-Database
+            OmarMeshref/Student-Exam-Grade-Tracking-System
+            OmarMeshref/JS_Tasks 
+            OmarMeshref/Portofolio
+
+          plugin_languages_details: percentage, bytes-size, lines
           plugin_languages_limit: 6
-          plugin_languages_threshold: 2%
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_threshold: 1%
+
+          plugin_languages_analysis_timeout: 45
+          plugin_languages_analysis_timeout_repositories: 12
 
 
       - name: Tech Interests
