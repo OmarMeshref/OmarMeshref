@@ -18,7 +18,7 @@ Building full stack applications with **.NET, Angular & SQL Server**.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./assets/omar-activity.svg" width="100%" />
+  <img src="./assets/omar-activity.svg" width="65%" />
 </p>
 
 ## 🌐 Portfolio
