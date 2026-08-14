@@ -1,27 +1,32 @@
-╔══════════════════════════════════════╗
-     Hi 👋 I'm Omar Meshref
-     Junior Full Stack Developer
-╚══════════════════════════════════════╝
+██████╗ ███╗   ███╗ █████╗ ██████╗
+██╔═══██╗████╗ ████║██╔══██╗██╔══██╗
+██║   ██║██╔████╔██║███████║██████╔╝
+██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
-     [ .NET ] [ Angular ] [ C# ] [ SQL ]
+> Junior Full Stack Developer_
+> Computer Engineer_
 
-👨‍💻 About Me
-─────────────────────────
-💻 Junior Full Stack Developer
-🎓 Computer Engineer
-🚀 Building Full Stack Applications
+[ C# ] [ ASP.NET ] [ Angular ] [ SQL Server ]
 
-        🛠️ Languages & Tools
+────────────────────────────────
 
-   C#   .NET   Angular   SQL   Git
-   ⚙️    🌐      🅰️     🗃️    🔀
+⚡ SYSTEM.INFO
 
-─────────────────────────
+> Current Role     : Junior Full Stack Developer
+> Backend          : ASP.NET Core
+> Frontend         : Angular
+> Database         : SQL Server
+> Status           : Building 🚀
 
-📊 GitHub Stats
+────────────────────────────────
 
-┌─────────────────┐ ┌─────────────────┐
-│   GitHub Stats  │ │  Top Languages  │
-│ ⭐ Commits      │ │ C# ████████     │
-│ 🔥 Contributions│ │ HTML █████      │
-└─────────────────┘ └─────────────────┘
+🔥 GitHub Streak
+
+        █████████████████
+
+🐍 Contribution Snake
+
+● ■ ■ ● ● ■ ■ ■ ● ● ■ ■ ■ ■
+   🐍═══════════════>
