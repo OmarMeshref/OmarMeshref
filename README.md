@@ -1,17 +1,28 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar2002A)](https://github.com/anuraghazra/github-readme-stats)
+```md
+# Hi, I'm Omar Meshref 👋
 
-<!--
-**Omar2002A/Omar2002A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full Stack Developer | Computer Engineer
 
-Here are some ideas to get you started:
+I build full stack web applications using **.NET, Angular, and SQL Server**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Junior Full Stack Developer focused on **ASP.NET Core & Angular**
+- 🎓 Computer Engineering graduate
+- 🟠 Full Stack training at **Orange Coding School**
+- 🚀 Interested in backend development, APIs, databases, and software architecture
+- 🔧 Also interested in hardware, robotics, and embedded systems
+
+## 🛠️ Tech Stack
+
+`C#` `ASP.NET Core` `MVC` `Entity Framework Core` `REST APIs`  
+`Angular` `TypeScript` `JavaScript` `HTML` `CSS` `Bootstrap`  
+`SQL Server` `Git` `GitHub` `Postman` `Figma`
+
+## 🚀 Projects
+
+- 🔐 **DeviceTrust** — Full Stack device trust and management platform
+- ☀️ **PV Cleaning Robot** — Computer Engineering graduation project
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/omar-a-meshref/) • [Email](mailto:oomarmeshref@gmail.com)
+```
