@@ -49,15 +49,7 @@ jobs:
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 6
           plugin_languages_threshold: 2%
-
           plugin_languages_analysis_timeout: 30
-
-          plugin_languages_recent_days: 90
-          plugin_languages_recent_load: 1000
-
-          plugin_languages_details: percentage, bytes-size
-          plugin_languages_limit: 6
-          plugin_languages_threshold: 2%
 
 
       - name: Tech Interests
