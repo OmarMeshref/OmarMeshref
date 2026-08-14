@@ -1,32 +1,38 @@
-██████╗ ███╗   ███╗ █████╗ ██████╗
-██╔═══██╗████╗ ████║██╔══██╗██╔══██╗
-██║   ██║██╔████╔██║███████║██████╔╝
-██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+# Hi, I'm Omar Meshref 👋
 
-> Junior Full Stack Developer_
-> Computer Engineer_
+### Junior Full Stack Developer | Computer Engineer
 
-[ C# ] [ ASP.NET ] [ Angular ] [ SQL Server ]
+Building full stack applications with **.NET, Angular & SQL Server**.
 
-────────────────────────────────
+<p align="center">
+  <img src="./assets/dev-quote.svg" width="100%" />
+</p>
 
-⚡ SYSTEM.INFO
+## ⚡ What I'm Building With
 
-> Current Role     : Junior Full Stack Developer
-> Backend          : ASP.NET Core
-> Frontend         : Angular
-> Database         : SQL Server
-> Status           : Building 🚀
+<p align="center">
+  <img src="./assets/omar-stack.svg" width="48%" />
+  <img src="./assets/omar-interests.svg" width="48%" />
+</p>
 
-────────────────────────────────
+## 📊 GitHub Activity
 
-🔥 GitHub Streak
+<p align="center">
+  <img src="./assets/omar-activity.svg" width="100%" />
+</p>
 
-        █████████████████
+## 🌐 Portfolio
 
-🐍 Contribution Snake
+<p align="center">
+  <a href="https://omarmeshref.github.io/Portofolio/">
+    <img src="./assets/portfolio-health.svg" width="65%" />
+  </a>
+</p>
 
-● ■ ■ ● ● ■ ■ ■ ● ● ■ ■ ■ ■
-   🐍═══════════════>
+<p align="center">
+  <a href="YOUR_LINKEDIN">LinkedIn</a>
+  •
+  <a href="https://omarmeshref.github.io/Portofolio/">Portfolio</a>
+  •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>

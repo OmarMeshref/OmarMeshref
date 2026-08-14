@@ -1,0 +1,3 @@
+return View("Small commits create big progress.");
+return View("Build it. Break it. Understand it.");
+return View("Consistency turns learning into skill.");
